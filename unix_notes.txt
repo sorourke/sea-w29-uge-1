@@ -1,0 +1,812 @@
+
+# manual for less program
+man less
+
+# where subl is located
+which subl
+
+# shows history
+history
+
+# lists files/directories in pwd
+ls
+
+history | nano
+
+# piping history to less such that it can be seen with ease
+history | less
+
+history less
+less history
+subl history
+ls ~/D/Milo
+cd ~/D/Milo
+cd /D/Milo
+cd
+clear
+
+# transfer a URL
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name
+git config --global user.email
+
+# checking version
+git --version
+git --
+
+# installing git with brew
+brew install git
+
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+brew doctor
+rvm implode
+ls ...
+cd Milo/
+cd Desktop/
+ls .
+ks .
+ls /
+ls -R
+ls -r
+cd ../..
+pwd
+cd Translation
+cd AndroidStudioProjects/
+cat >
+ls >
+ls -l
+man ls
+cd /
+cd home/
+ls home/
+ls -rtl
+ls -lG
+rm -rf jagexcache5
+rm -rf jagexcache4
+rm -rf jagexcache3
+rm -rf jagexcache2
+rm -rf jagexcache1
+rm -rf jagexcache
+rm -rf jagexappletviewer.preferences
+rm -rf jagex_cl_speccollect_LIVE.dat
+rm -rf jagex_cl_runescape_LIVE.dat
+rm -rf jagex_cl_oldschool_LIVE.dat
+ks
+cd ~
+ls -t
+ls -G
+ls -ltar
+ls -lt
+ls -t -l
+curl -fsSL http://git.io/QxUaQQ | sh
+git config --global user.email 'camiloignj3@hotmail.com'
+git config --global user.email 'camiloignj3@hotmail.com
+git config --global user.name 'Camilo Jacomet'
+which git
+whichgit
+which fish
+curl -L --create-dirs -o ~/.config/fish/functions/rvm.fish https://raw.github.com/lunks/fish-nuggets/master/functions/rvm.fish
+rvm usage
+rvm install fish
+ruby --version
+rvm use 1.9.3
+git pull
+git branch --set-upstream-to=origin/master master
+cd /usr/local/Library/
+rvm install 2.1
+rvm get
+rvm update
+rvm list
+file /usr/bin/ruby
+file /usr/bin/ruby
+which ruby
+cat /usr/bin/ruby
+sudo ln -s /Users/camiloignj3/.rvm/rubies/ruby-2.0.0-p195/bin/ruby /usr/bin/ruby
+cat usr/bin/ruby
+cd Versions/
+cd Ruby.framework/
+cd Library/Frameworks/
+cd System/
+cd ..
+git pull; brew update
+cd /usr/local/
+ruby
+$echo $SHELL
+exit
+ls /Users/camiloignj3/.homebrew/Library/brew.rb
+ls /Users/camiloignj3/.homebrew/Library/
+brew help
+uname
+unmae
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
+homebrew
+git pull origin master
+ping jc-pj.local
+ping jc-pj
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.176/deploy/bin/LolClient ; exit;
+ssh -X pi@192.168.2.2
+ssh pi@192.168.2.2
+ifconfig
+ip
+ping ftp.novell.com
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.166/deploy/bin/LolClient ; exit;
+php -S localhost:1027
+vim index.php
+cat > index.php
+cd Sites/
+cd Si
+cd
+php -S localhost:9001
+php -s localhost:9001
+php -s localhost:0000
+php --help
+/usr/local/mysql/bin/mysql -v
+sudo apachectl start
+sudo apachectl stop
+sudo nano httpd.conf
+httpd -v
+php -v
+sudo apachectl restart
+apache2 start
+cd /etc/apache2
+sudo apachect1 start
+/Users/camiloignj3/Downloads/mysql-5.6.22-osx10.9-x86_64/scripts/mysql_install_db ; exit;
+java -version
+java version
+javac -version
+drutil tray eject
+drutil eject
+vagrant up wp_dev
+cd work5
+vagrant halt wp_dev
+cd ../work5
+vagrant halt
+vagrant reload wp_dev
+vagrant reload wp_dev --provision
+cd work6
+git clone git@github.com:tu2011/Tools.git work6
+git remote -v
+vagrant provision wp_dev
+status: active
+media: autoselect
+nd6 options=1<PERFORMNUD>
+inet6 fd00::fcc4:de40:9130:9030 prefixlen 64 autoconf temporary
+inet6 fd00::1240:f3ff:fe9b:3700 prefixlen 64 autoconf
+inet 192.168.100.13 netmask 0xffffff00 broadcast 192.168.100.255
+inet6 fe80::1240:f3ff:fe9b:3700%en1 prefixlen 64 scopeid 0x4
+ether 10:40:f3:9b:37:00
+ flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.130/deploy/bin/LolClient ; exit;
+vagrant box list
+vagrant box remove wp_dev20140528
+vagrant box delete wp_dev20140528
+whoami
+gvim wp_dev
+open .
+cd Desktop/work5
+mv id_rsa.pub new_id_rsa.pub
+mv id_rsa new_id_rsa
+cd ~/.ssh
+git clone git@github.com:tu2011/Tools.git work5
+cat id_rsa.pub
+ls -al
+ssh-keygen -t rsa -C "camiloignj3@hotmail.com"
+mv id_rsa.pub old_id_rsa.pub
+mv id_rsa old_id_rsa
+cat id_rsa.pub
+cat id_rsa
+git push origin master
+popd
+mv new_id_rsa.pub id_rsa.pub
+mv new_id_rsa id_rsa
+pushd ~/.ssh
+git log
+git status
+rm package.box
+git checkout -- personal_preferences
+vim config/xdebug/
+gitk
+git pull origin
+git remote pull origin
+git remote add origin git@github.com:tu2011/Tools.git
+git remote rm origin
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.127/deploy/bin/LolClient ; exit;
+vagramt halt
+git push
+git commit -m "Added apache2 restart and changed wordpress download location" phpVM.sh
+git commit -m "Changed box from which vm is built" Vagrantfile
+git commit
+git add Vagrantfile phpVM.sh
+vagrant box remove Ubuntu20140518
+vagrant box help
+vagrant up
+vagrant destroy
+vagrant provision
+vim Vagrantfile
+vagrant box add --name Ubuntu20140525 package.box
+history | grep "package"
+vagrant package
+vagrant
+vim phpVM.sh
+vim config/
+cp ~/.vimrc config
+cd Desktop/work4
+vim .vimrc
+ls -la
+vim phpVM.sh
+git commit -m " added wordpress download and .vimrc copy to home folder"
+git add phpVM.sh
+git add config/
+brew search apache
+vagrant provision
+
+cd ../work4
+git remote
+git help
+git add Vagrantfile
+git addd Vagrantfile
+git commit
+man grep
+history | "pkg"
+git diff
+s -l
+cd ../work2
+cd work
+cd ../
+cd work4
+ git clone ~/Dropbox/Camilo\ work/phpVM/ work4
+git clone
+rm -rf work4
+rm -rf
+mkdir work4
+cd../
+cd work3/
+cd ../work3 vagrant up
+cd work3
+ git clone ~/Dropbox/Camilo\ work/phpVM/ work3
+mkdir work3
+cd Desktop
+cd /Deskt
+rm -rf work3/
+cd ../work
+cd Desktop/work
+cd //
+vagrant status
+cd work2
+sudo vim /etc/hosts
+stty sane
+git clone ~/Dropbox/Camilo\ work/phpVM/ work2
+rmdir work2
+mkdir work2
+git remote add origin ~/Dropbox/Camilo\ work/phpVM/
+git k
+git commit -m "Commit of Vagrantfile"
+git add .gitignore
+vim .gitignore
+git init .
+cd Desktop/work/
+git init . --bare
+cd phpVM/
+mkdir phpVM
+cd Camilo\ work
+cd Dropbox/
+vagrant
+ls -l .vagrant.d/
+ls -l .vagrant/
+vbm
+cd work/
+vagrant reload
+rm -rf package.box
+vagrant box add --name Ubuntu20140518 package.box
+vagrant box add --help
+vagrant package
+vagrant box
+cls
+rm -rf W7/
+vagrant init W7
+cd W7/
+mkdir W7
+rm WindowsBox
+vbm list vms
+vagrant box add --name W7 WindowsBox
+ls -lh
+vagrant package --base Windows --output WindowsBox
+vagrant package --help
+vagrant package help
+s
+cat .vagrant/machines/default/virtualbox/id
+ls -la .vagrant/machines/default/virtualbox/
+ls -la .vagrant/machines/
+ls -la .vagrant/
+vbm list runningvms
+vbm
+vagrant ssh
+vi Vagrantfile
+vagrant init hashicorp/precise64
+rm -rf .vagrant/
+rm -rf *
+vagrant init
+vagrant -h
+vagrant --help
+vagrant --h
+vagrant --version
+Vagrant up
+\\jc-pj\Public\Shared\Software eBooks
+cd \\jc-pj\Public\Shared\Software eBooks
+./a.out
+cc program2.c
+cc helloworld.c
+gcc helloworld.c
+a.out
+cd c\ programming/
+vi ~/.bashrc
+ /Applications/VirtualBox.app/Contents/MacOS/VBoxManage
+ls /Applications/VirtualBox.app/Contents/MacOS/
+ls /Applications/VirtualBox.app/Contents/
+ls /Applications/VirtualBox.app/
+ls /Applications/
+cd Applications/
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.121/deploy/bin/LolClient ; exit;
+ssh camiloj@lectura.cs.arizona.edu
+bang 1021
+scp Node.java camiloj@lectura.cs.arizona.edu:
+scp Deck.java camiloj@lectura.cs.arizona.edu:
+scp Card.java camiloj@lectura.cs.arizona.edu:
+cd src
+cd Program10
+cd CSC227b/
+cd Desktop/University\ of\ Arizona/CSC
+scp *.java camiloj@lectura.cs.arizona.edu:
+cd Program9
+cd CSC227b
+cd CSC
+cd University\ of\ Arizona/
+ssh chrisstep18@lectura.cs.arizona.edu
+ssh chrisstep18@email.arizona.edu
+ssh chrisstep18
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.118/deploy/bin/LolClient ; exit;
+scp prog5.s camiloj@lectura.cs.arizona.edu:252/prog5
+cd CSc252
+scp prog4.s camiloj@lectura.cs.arizona.edu:252/prog4
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.117/deploy/bin/LolClient ; exit;
+scp prog4.s camiloj@lectura.cs.arizona.edu:prog3
+ssh camiloj@lectura.cs.arizona.edu:
+scp *.java camiloj@lectura.cs.arizona.edu
+cd Program8
+gitl
+git commit -m "Things as they looked at 3:22pm"
+git add src
+git status
+git diff src/Polynomial.java
+git diff src/Prog7test.java
+git checkout master
+git branch
+git commit -m "Dads method"
+git add src/Polynomial.java
+git add .
+nano .gitignore
+rm -rf .git
+ls -a
+pushd ../../../../
+cd "/Users/camiloignj3/Desktop/University of Arizona/CSC/CSC227b/Program7"
+cd /Users/camiloignj3/Desktop/University of Arizona/CSC/CSC227b/Program7
+sudo -s
+find . -iname '*.dmg' -xdev
+nano .bashrc
+qemu-system-mips64 -M malta -kernel vmlinux-2.6.32-5-5kc-malta -hda debian_squeeze_mips_standard.qcow2 -append "root=/dev/sda1 console=tty0"
+ls -l debian_squeeze_mips_standard.qcow2
+ls -l movingaround.txt
+"hello test" >> movingaround.txt
+subl movingaround.txt
+cat movingaround.txt
+ls
+history > movingaround.txt
+man less
+which subl
+history
+history | nano
+history | less
+history less
+less history
+subl history
+ls ~/D/Milo
+cd ~/D/Milo
+cd /D/Milo
+cd
+clear
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name
+git config --global user.email
+git --version
+git --
+brew install git
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+brew doctor
+rvm implode
+ls ...
+cd Milo/
+cd Desktop/
+ls .
+ks .
+ls /
+ls -R
+ls -r
+cd ../..
+pwd
+cd Translation
+cd AndroidStudioProjects/
+cat >
+ls >
+ls -l
+man ls
+cd /
+cd home/
+ls home/
+ls -rtl
+ls -lG
+rm -rf jagexcache5
+rm -rf jagexcache4
+rm -rf jagexcache3
+rm -rf jagexcache2
+rm -rf jagexcache1
+rm -rf jagexcache
+rm -rf jagexappletviewer.preferences
+rm -rf jagex_cl_speccollect_LIVE.dat
+rm -rf jagex_cl_runescape_LIVE.dat
+rm -rf jagex_cl_oldschool_LIVE.dat
+ks
+cd ~
+ls -t
+ls -G
+ls -ltar
+ls -lt
+ls -t -l
+curl -fsSL http://git.io/QxUaQQ | sh
+git config --global user.email 'camiloignj3@hotmail.com'
+git config --global user.email 'camiloignj3@hotmail.com
+git config --global user.name 'Camilo Jacomet'
+which git
+whichgit
+which fish
+curl -L --create-dirs -o ~/.config/fish/functions/rvm.fish https://raw.github.com/lunks/fish-nuggets/master/functions/rvm.fish
+rvm usage
+rvm install fish
+ruby --version
+rvm use 1.9.3
+git pull
+git branch --set-upstream-to=origin/master master
+cd /usr/local/Library/
+rvm install 2.1
+rvm get
+rvm update
+rvm list
+file /usr/bin/ruby
+file /usr/bin/ruby
+which ruby
+cat /usr/bin/ruby
+sudo ln -s /Users/camiloignj3/.rvm/rubies/ruby-2.0.0-p195/bin/ruby /usr/bin/ruby
+cat usr/bin/ruby
+cd Versions/
+cd Ruby.framework/
+cd Library/Frameworks/
+cd System/
+cd ..
+git pull; brew update
+cd /usr/local/
+ruby
+$echo $SHELL
+exit
+ls /Users/camiloignj3/.homebrew/Library/brew.rb
+ls /Users/camiloignj3/.homebrew/Library/
+brew help
+uname
+unmae
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
+homebrew
+git pull origin master
+ping jc-pj.local
+ping jc-pj
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.176/deploy/bin/LolClient ; exit;
+ssh -X pi@192.168.2.2
+ssh pi@192.168.2.2
+ifconfig
+ip
+ping ftp.novell.com
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.166/deploy/bin/LolClient ; exit;
+php -S localhost:1027
+vim index.php
+cat > index.php
+cd Sites/
+cd Si
+cd
+php -S localhost:9001
+php -s localhost:9001
+php -s localhost:0000
+php --help
+/usr/local/mysql/bin/mysql -v
+sudo apachectl start
+sudo apachectl stop
+sudo nano httpd.conf
+httpd -v
+php -v
+sudo apachectl restart
+apache2 start
+cd /etc/apache2
+sudo apachect1 start
+/Users/camiloignj3/Downloads/mysql-5.6.22-osx10.9-x86_64/scripts/mysql_install_db ; exit;
+java -version
+java version
+javac -version
+drutil tray eject
+drutil eject
+vagrant up wp_dev
+cd work5
+vagrant halt wp_dev
+cd ../work5
+vagrant halt
+vagrant reload wp_dev
+vagrant reload wp_dev --provision
+cd work6
+git clone git@github.com:tu2011/Tools.git work6
+git remote -v
+vagrant provision wp_dev
+status: active
+media: autoselect
+nd6 options=1<PERFORMNUD>
+inet6 fd00::fcc4:de40:9130:9030 prefixlen 64 autoconf temporary
+inet6 fd00::1240:f3ff:fe9b:3700 prefixlen 64 autoconf
+inet 192.168.100.13 netmask 0xffffff00 broadcast 192.168.100.255
+inet6 fe80::1240:f3ff:fe9b:3700%en1 prefixlen 64 scopeid 0x4
+ether 10:40:f3:9b:37:00
+ flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.130/deploy/bin/LolClient ; exit;
+vagrant box list
+vagrant box remove wp_dev20140528
+vagrant box delete wp_dev20140528
+whoami
+gvim wp_dev
+open .
+cd Desktop/work5
+mv id_rsa.pub new_id_rsa.pub
+mv id_rsa new_id_rsa
+cd ~/.ssh
+git clone git@github.com:tu2011/Tools.git work5
+cat id_rsa.pub
+ls -al
+ssh-keygen -t rsa -C "camiloignj3@hotmail.com"
+mv id_rsa.pub old_id_rsa.pub
+mv id_rsa old_id_rsa
+cat id_rsa.pub
+cat id_rsa
+git push origin master
+popd
+mv new_id_rsa.pub id_rsa.pub
+mv new_id_rsa id_rsa
+pushd ~/.ssh
+git log
+git status
+rm package.box
+git checkout -- personal_preferences
+vim config/xdebug/
+gitk
+git pull origin
+git remote pull origin
+git remote add origin git@github.com:tu2011/Tools.git
+git remote rm origin
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.127/deploy/bin/LolClient ; exit;
+vagramt halt
+git push
+git commit -m "Added apache2 restart and changed wordpress download location" phpVM.sh
+git commit -m "Changed box from which vm is built" Vagrantfile
+git commit
+git add Vagrantfile phpVM.sh
+vagrant box remove Ubuntu20140518
+vagrant box help
+vagrant up
+vagrant destroy
+vagrant provision
+vim Vagrantfile
+vagrant box add --name Ubuntu20140525 package.box
+history | grep "package"
+vagrant package
+vagrant
+vim phpVM.sh
+vim config/
+cp ~/.vimrc config
+cd Desktop/work4
+vim .vimrc
+ls -la
+vim phpVM.sh
+git commit -m " added wordpress download and .vimrc copy to home folder"
+git add phpVM.sh
+git add config/
+brew search apache
+vagrant provision
+
+cd ../work4
+git remote
+git help
+git add Vagrantfile
+git addd Vagrantfile
+git commit
+man grep
+history | "pkg"
+git diff
+s -l
+cd ../work2
+cd work
+cd ../
+cd work4
+ git clone ~/Dropbox/Camilo\ work/phpVM/ work4
+git clone
+rm -rf work4
+rm -rf
+mkdir work4
+cd../
+cd work3/
+cd ../work3 vagrant up
+cd work3
+ git clone ~/Dropbox/Camilo\ work/phpVM/ work3
+mkdir work3
+cd Desktop
+cd /Deskt
+rm -rf work3/
+cd ../work
+cd Desktop/work
+cd //
+vagrant status
+cd work2
+sudo vim /etc/hosts
+stty sane
+git clone ~/Dropbox/Camilo\ work/phpVM/ work2
+rmdir work2
+mkdir work2
+git remote add origin ~/Dropbox/Camilo\ work/phpVM/
+git k
+git commit -m "Commit of Vagrantfile"
+git add .gitignore
+vim .gitignore
+git init .
+cd Desktop/work/
+git init . --bare
+cd phpVM/
+mkdir phpVM
+cd Camilo\ work
+cd Dropbox/
+vagrant
+ls -l .vagrant.d/
+ls -l .vagrant/
+vbm
+cd work/
+vagrant reload
+rm -rf package.box
+vagrant box add --name Ubuntu20140518 package.box
+vagrant box add --help
+vagrant package
+vagrant box
+cls
+rm -rf W7/
+vagrant init W7
+cd W7/
+mkdir W7
+rm WindowsBox
+vbm list vms
+vagrant box add --name W7 WindowsBox
+ls -lh
+vagrant package --base Windows --output WindowsBox
+vagrant package --help
+vagrant package help
+s
+cat .vagrant/machines/default/virtualbox/id
+ls -la .vagrant/machines/default/virtualbox/
+ls -la .vagrant/machines/
+ls -la .vagrant/
+vbm list runningvms
+vbm
+vagrant ssh
+vi Vagrantfile
+vagrant init hashicorp/precise64
+rm -rf .vagrant/
+rm -rf *
+vagrant init
+vagrant -h
+vagrant --help
+vagrant --h
+vagrant --version
+Vagrant up
+\\jc-pj\Public\Shared\Software eBooks
+cd \\jc-pj\Public\Shared\Software eBooks
+./a.out
+cc program2.c
+cc helloworld.c
+gcc helloworld.c
+a.out
+cd c\ programming/
+vi ~/.bashrc
+ /Applications/VirtualBox.app/Contents/MacOS/VBoxManage
+ls /Applications/VirtualBox.app/Contents/MacOS/
+ls /Applications/VirtualBox.app/Contents/
+ls /Applications/VirtualBox.app/
+ls /Applications/
+cd Applications/
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.121/deploy/bin/LolClient ; exit;
+ssh camiloj@lectura.cs.arizona.edu
+bang 1021
+scp Node.java camiloj@lectura.cs.arizona.edu:
+scp Deck.java camiloj@lectura.cs.arizona.edu:
+scp Card.java camiloj@lectura.cs.arizona.edu:
+cd src
+cd Program10
+cd CSC227b/
+cd Desktop/University\ of\ Arizona/CSC
+scp *.java camiloj@lectura.cs.arizona.edu:
+cd Program9
+cd CSC227b
+cd CSC
+cd University\ of\ Arizona/
+ssh chrisstep18@lectura.cs.arizona.edu
+ssh chrisstep18@email.arizona.edu
+ssh chrisstep18
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.118/deploy/bin/LolClient ; exit;
+scp prog5.s camiloj@lectura.cs.arizona.edu:252/prog5
+cd CSc252
+scp prog4.s camiloj@lectura.cs.arizona.edu:252/prog4
+/Applications/League\ of\ Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases/0.0.0.117/deploy/bin/LolClient ; exit;
+scp prog4.s camiloj@lectura.cs.arizona.edu:prog3
+ssh camiloj@lectura.cs.arizona.edu:
+scp *.java camiloj@lectura.cs.arizona.edu
+cd Program8
+gitl
+git commit -m "Things as they looked at 3:22pm"
+git add src
+git status
+git diff src/Polynomial.java
+git diff src/Prog7test.java
+git checkout master
+git branch
+git commit -m "Dads method"
+git add src/Polynomial.java
+git add .
+nano .gitignore
+rm -rf .git
+ls -a
+pushd ../../../../
+cd "/Users/camiloignj3/Desktop/University of Arizona/CSC/CSC227b/Program7"
+cd /Users/camiloignj3/Desktop/University of Arizona/CSC/CSC227b/Program7
+sudo -s
+find . -iname '*.dmg' -xdev
+nano .bashrc
+qemu-system-mips64 -M malta -kernel vmlinux-2.6.32-5-5kc-malta -hda debian_squeeze_mips_standard.qcow2 -append "root=/dev/sda1 console=tty0"
+ls -l debian_squeeze_mips_standard.qcow2
