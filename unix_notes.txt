@@ -2,6 +2,8 @@
 # Display hidden files and directories.
 ls -a
 
+I am editing this file right now!
+
 # single comment to commit changes
 # manual for less program
 man less
