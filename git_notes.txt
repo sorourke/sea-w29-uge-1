@@ -1,0 +1,54 @@
+
+# Used to see branch's since it has no arguments after it
+git branch
+
+# Checkout is used to switch branches with the argument being what branch you want to switch to
+git checkout git-notes
+
+# Ignore this was just testing to see what it did
+git git-notes
+
+# List all files hidden in long form
+ls -al
+ls
+
+# Used to check status of git and see if there are any changes that need to be committed.
+git status
+
+# Branch here is used to create a new branch with git-notes being the new branch created
+git branch git-notes
+
+# Used to check the "history" of git changes/commits made
+git log
+
+# Doing a git commit and add comments for clarity such that it can be remembered what was changed
+git commit unix_notes.txt -m"Added notes about how to view hidden files with ls command."
+
+# This is to stage the file such that it can be ready for commit
+git add unix_notes.txt
+
+# Error messed up typing this, meant to do a commit
+git add unix_notes.txt -m"Added notes about how to view hidden files with ls command."
+
+git add unix_notes.txt -m "Added notes about how to view hidden files with ls command."
+subl unix_notes.txt
+
+# If ever wondering something about git commands
+git --help
+git history
+clear
+git commit unix_notes.txt -m "Added single comment to test git."
+git diff --staged unix_notes.txt
+git add unix_notes.txt
+git commit unix_notes.txt -m "Add initial version of unix notes."
+git stat
+cd uge_workshop/
+cd ..
+cd .git
+ls -a
+ls -s
+man ls
+ls -h
+ls -l
+git init
+git config
