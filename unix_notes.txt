@@ -1,3 +1,7 @@
+
+# Display hidden files and directories.
+ls -a
+
 # single comment to commit changes
 # manual for less program
 man less
